@@ -1,0 +1,79 @@
+h1{
+    background-color: darkolivegreen;
+    font-family: cambria;
+    color:ghostwhite;
+    text-align: center;
+    font-size: 50px;
+    top: auto;
+    bottom: 200px;
+    padding: 0;
+}
+
+h2{
+    background-color:azure;
+    /* text-align: center; */
+    font-family: cambria;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+body{
+    background-image: url(scratch\ background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p{
+    background-color: azure;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: cambria ;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 0px;
+}
+
+.list{
+    background-color: azure;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: cambria ;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin-top: 0px;
+
+}
+
+.photo{
+      width: 25%;
+    /* the block tells it to margin to the entire page, not just to the size of the image */
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 6px solid azure;
+}
+
+a{
+    text-align: center;
+    font-family: cambria;
+    font-size: medium;
+    color: darkolivegreen;
+}
+
+.tab{
+    /* align-items: center; */
+    display: block;
+    margin-right: 193px;
+    margin-left: 193px;
+    border: 6px solid darkolivegreen;
+}
+
+.nav{
+    position: relative;
+    float: right;
+    background-color: azure;
+}
